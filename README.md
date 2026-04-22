@@ -9,8 +9,11 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Read the dataset and extract R&D Spend as X and Profit as Y.
+
 2.Normalize X and initialize m = 0, b = 0, learning rate and epochs.
+
 3.Use Gradient Descent to update m and b repeatedly to minimize prediction error.
+
 4.Predict Y values using y=mx+b and plot the data points with the regression line.
 
 ## Program:
